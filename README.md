@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm <span style="font-family: 'Comic Sans MS', cursive;">Shruti</span></h1>
+<h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm Shrewwti</h2>an></h1>
 
 <p align="center">
   🌟 Tech enthusiast | 💡 Curious mind | 💻 Frontend Developer-in-progress
