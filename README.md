@@ -1,7 +1,5 @@
 <h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm Shrewwti</h2>
 
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="200"/>
-
 <p align="center">
   🌟 Tech enthusiast | 💡 Curious mind | 💻 Frontend Developer-in-progress
 </p>
