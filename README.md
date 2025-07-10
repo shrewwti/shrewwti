@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm <span style="font-family: 'Comic Sans MS', cursive;">Shrewwti</span></h1>
+<h1 align="center">Hi there! 👋 I'm <span style="font-family: 'Comic Sans MS', cursive;">Shruti</span></h1>
 
 <p align="center">
   🌟 Tech enthusiast | 💡 Curious mind | 💻 Frontend Developer-in-progress
